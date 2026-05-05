@@ -25,6 +25,9 @@ All three models are served through a single **FastAPI** backend and visualised 
 
 ```
 final_year_project/
+|
+|
+├── cases/ # this folder contains three files that include examples for all possible scenarios for each task
 │
 ├── config.py                    # Shared path configuration (Paths class)
 ├── requirements.txt             # All Python dependencies
@@ -137,7 +140,8 @@ https://drive.google.com/drive/folders/122C9Lt-TyiHYoovJiHxGxR8u305Vx8Gm?usp=sha
 
 Option 2: 
 
-The whole project folder can also be download through google drive via the following link: https://drive.google.com/file/d/1VL_AWmlGcjJgV0pCa2ReMfCpmrxpW7GF/view?usp=sharing
+The whole project folder can also be download through google drive via the following link: 
+https://drive.google.com/file/d/1llNvQih-p0V5gZV8dcFJsVuknOjleRzq/view?usp=sharing
 Download the folder, and unzip the folder. 
 
 

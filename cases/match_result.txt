@@ -1,0 +1,62 @@
+1- Case 1 (Draw)
+
+Home_team: Everton
+Away_team: Southampton
+Manual enter of stats
+
+Home team Stat:
+
+Goals_scored: 27
+Golas_conceded: 28
+Points: 41
+Form_points: 7
+Goal_diff: -1
+Win_Streak >=3: 0
+Win_Streak >=5: 0
+Loss_Streak >=3: 0
+Loss_Streak >=5: 0
+Last_match_result (win=3,draw=1,loss=0): 3
+2nd_last_match_result (win=3,draw=1,loss=0): 1
+3rd_last_match_result (win=3,draw=1,loss=0): 0
+4th_last_match_result (win=3,draw=1,loss=0): 1
+5th_last_match_result (win=3,draw=1,loss=0): 3
+
+Away team Stat:
+
+Goals_scored: 31
+Golas_conceded: 25
+Points: 41
+Form_points: 9
+Goal_diff: 6
+Win_Streak >=3: 0
+Win_Streak >=5: 0
+Loss_Streak >=3: 0
+Loss_Streak >=5: 0
+Last_match_result (win=3,draw=1,loss=0): 3
+2nd_last_match_result (win=3,draw=1,loss=0): 3
+3rd_last_match_result (win=3,draw=1,loss=0): 1
+4th_last_match_result (win=3,draw=1,loss=0): 0
+5th_last_match_result (win=3,draw=1,loss=0): 3
+
+
+2- Case 2 (Away win)
+
+Home team: Arsenal
+Away team: Man City
+
+Auto-stats
+
+3- Case 3 (Home win)
+
+Home team: Arsenal
+Away team: Aston Villa
+
+Auto-stats
+
+
+
+
+
+
+
+

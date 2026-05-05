@@ -1,0 +1,11 @@
+1- Case 1 (High injury risk)
+
+Auto params just change:
+
+Carrer_games_played: 500
+Carrer_days_injured: 400
+
+
+2- Case 2 (Low injury risk)
+
+Auto params already give low injury risk 

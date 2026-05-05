@@ -1,0 +1,21 @@
+1- Case 1 (High xG):
+
+X= 95.5
+Y= 50
+
+Foot_used: Right_foot
+Match_half: First_half
+
+palyer_rank: 6.5
+
+
+2- Case 2 (Low xG):
+
+X= 55
+Y= 50
+
+Foot_used: Right_foot
+Match_half: First_half
+
+palyer_rank: 6.5
+
