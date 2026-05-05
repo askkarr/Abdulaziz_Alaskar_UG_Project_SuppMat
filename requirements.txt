@@ -1,0 +1,36 @@
+# ── Data manipulation & analysis ─────────────────────────────────────────────
+pandas
+numpy
+
+# ── Machine learning ────────────────────────────────────────────────────────
+scikit-learn
+xgboost
+lightgbm
+
+# ── Model persistence ───────────────────────────────────────────────────────
+joblib
+
+# ── Explainability ──────────────────────────────────────────────────────────
+shap
+
+# ── Visualisation ───────────────────────────────────────────────────────────
+matplotlib
+seaborn
+plotly
+
+# ── API backend ─────────────────────────────────────────────────────────────
+fastapi
+uvicorn[standard]
+pydantic
+
+# ── Streamlit dashboard ─────────────────────────────────────────────────────
+streamlit
+
+# ── HTTP client (dashboard → API) ───────────────────────────────────────────
+requests
+
+# ── Notebook environment ────────────────────────────────────────────────────
+jupyter
+notebook
+ipykernel
+nbconvert
