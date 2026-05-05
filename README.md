@@ -130,8 +130,16 @@ final_year_project/
 
 ### 0. Download the Data 
 
-Download the data folder from google drive using the provided link. Unzip the folder and add it to the projects root. 
-https://drive.google.com/file/d/1fhwaUqfvi_GnS55ug2SREIdzLnuAbiXv/view?usp=sharing
+Option 1:
+
+Download the data folder from google drive using the provided link. Add the folder to the projects root. 
+https://drive.google.com/drive/folders/122C9Lt-TyiHYoovJiHxGxR8u305Vx8Gm?usp=sharing
+
+Option 2: 
+
+The whole project folder can also be download through google drive via the following link: https://drive.google.com/file/d/1VL_AWmlGcjJgV0pCa2ReMfCpmrxpW7GF/view?usp=sharing
+Download the folder, and unzip the folder. 
+
 
 
 ### 1. Install dependencies
