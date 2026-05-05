@@ -133,13 +133,13 @@ final_year_project/
 
 ### 0. Download the Data 
 
-Option 1:
+**Option 1:**
 
 Download the data folder from google drive using the provided link. Add the folder to the projects root. 
 
 https://drive.google.com/drive/folders/1F6Nwe81ppg0_8FQCL2VcTYbhPfwFKPKF?usp=sharing
 
-Option 2: 
+**Option 2:**
 
 The whole project folder (data included) can also be downloaded through google drive via the following link: 
 
