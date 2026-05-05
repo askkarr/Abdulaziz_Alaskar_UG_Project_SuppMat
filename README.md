@@ -137,13 +137,13 @@ Option 1:
 
 Download the data folder from google drive using the provided link. Add the folder to the projects root. 
 
-https://drive.google.com/drive/folders/122C9Lt-TyiHYoovJiHxGxR8u305Vx8Gm?usp=sharing
+https://drive.google.com/drive/folders/1F6Nwe81ppg0_8FQCL2VcTYbhPfwFKPKF?usp=sharing
 
 Option 2: 
 
 The whole project folder (data included) can also be downloaded through google drive via the following link: 
 
-https://drive.google.com/file/d/1llNvQih-p0V5gZV8dcFJsVuknOjleRzq/view?usp=sharing
+https://drive.google.com/file/d/1i1GjhlWxeZT2mVmZtXcmNlXg24oPosBi/view?usp=sharing
 
 Download the folder, and unzip the folder. 
 
